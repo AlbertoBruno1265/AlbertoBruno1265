@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me:
-🔭 I am currently working on personal projects<br>👯 I'm looking to collaborate with what I can<br>🤝 I'm looking for help with Object Oriented Programming<br>🌱 I am currently Data Science<br>⚡ Fun fact: I'm colorblind ¯\_(ツ)_/¯
+🔭 I am currently working on personal projects<br>👯 I'm looking to collaborate with what I can<br>🤝 I'm looking for help with Machine Learn<br>🌱 I am currently studing Data Science<br>⚡ Fun fact: I'm colorblind ¯\_(ツ)_/¯
 
 
 # 💻 Tech Stack:
